@@ -1,2 +1,2 @@
 0.0.4
-https://github.com/NAta4333/wsgtegegv/raw/refs/heads/main/bootstraper.exe
+https://github.com/NAta4333/wsgtegegv/releases/download/0.03/bootstraper.exe
